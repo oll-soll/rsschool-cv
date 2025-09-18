@@ -32,3 +32,4 @@ function multiply(a, b) {
 
 ## English - 
 - B1/B2 Intermediate (according to the online test at [EFset] (https://www.efset.org/quick-check/))
+![My English Score] (images/photo.jpg)

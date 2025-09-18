@@ -26,4 +26,9 @@ function multiply(a, b) {
 }
 ```
 
+## Education - 
+- PGPU (Perm State Humanitarian Pedagogical University)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (In progress)
 
+## English - 
+- B1/B2 Intermediate (according to the online test at [EFset] (https://www.efset.org/quick-check/))

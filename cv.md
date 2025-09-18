@@ -31,5 +31,5 @@ function multiply(a, b) {
 - RS Schools Course «JavaScript/Front-end. Stage 1» (In progress)
 
 ## English - 
-- B1/B2 Intermediate (according to the online test at [EFset] (https://www.efset.org/quick-check/))
-![My English Score] (images/photo.jpg)
+- B1/B2 Intermediate (according to the online test at [EFset](https://www.efset.org/quick-check/))
+![My English Score](images/photo.jpg)
